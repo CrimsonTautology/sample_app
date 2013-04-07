@@ -13,7 +13,6 @@ group :development, :test do
   gem 'rspec-rails', '2.11.0'
   gem 'guard-rspec'
   gem 'guard-spork', github: 'guard/guard-spork'
-  gem 'guard-livereload'
   gem 'spork'
 end
 
